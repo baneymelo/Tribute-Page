@@ -1,0 +1,25 @@
+#main{
+    background: #1d1d1d;
+    color: white;
+}
+
+#tittle{
+    text-align: center;
+}
+
+#img-div{
+    text-align: center;
+}
+#image{
+    width: 200px;
+    border: cornsilk solid 2px;
+}
+
+ul{
+    list-style: none;
+}
+
+#timeline{
+    background: rgb(204, 200, 150);
+    color: black;
+}
